@@ -22,5 +22,4 @@ LinkedIn: https://www.linkedin.com/in/lakshmi-c-lineshah/
 Email: lakshmi.lineshah@gmail.com
 
 
-**LakshmiLineshah/LakshmiLineshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
