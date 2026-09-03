@@ -14,11 +14,18 @@ Featured projects
 
 I'm currently building a portfolio of production-focused machine-learning projects:
 
+
+
 Production Vehicle Valuation API
+
 Automated ML Retraining and Monitoring Pipeline
+
 RAG Evaluation Service
+
 Connect with me
+
 LinkedIn: https://www.linkedin.com/in/lakshmi-c-lineshah/
+
 Email: lakshmi.lineshah@gmail.com
 
 
