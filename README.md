@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# Hi, I'm Lakshmi Lineshah 👋
+## Hi, I'm Lakshmi Lineshah 👋
 
 Senior Lead Data Scientist with strong Machine Learning Engineering and MLOps expertise, based in Manchester, UK. I have 8+ years of experience building, deploying, and monitoring production-grade machine-learning systems.
 
@@ -20,18 +18,9 @@ Production Vehicle Valuation API
 Automated ML Retraining and Monitoring Pipeline
 RAG Evaluation Service
 Connect with me
-LinkedIn
+LinkedIn: https://www.linkedin.com/in/lakshmi-c-lineshah/
 Email: lakshmi.lineshah@gmail.com
+
+
 **LakshmiLineshah/LakshmiLineshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
